@@ -1,9 +1,10 @@
 __Coffee Shop Sales Dashboard Personal Project__
 
-__Introduction__
+__Introduction__ 
 This is an analysis of sales data from a chain of coffee shops that will have key insights presented through an interactive dashboard. This dashboard then gives insight into sales trend, how different products are performing, and comparisons by stores to make better informed decisions on how to improve business.
 
 __Objective__
+
 This project seeks to have highly visualized metrics on sales including total revenue, transactions, best-selling items, and busier hours. In turn, it avails the coffee shop managers a means of understanding their performance on different products and stores to make informed choices.
 
 __Analytical Goal__
