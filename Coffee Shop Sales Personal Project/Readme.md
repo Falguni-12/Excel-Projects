@@ -70,18 +70,24 @@ Tools: Microsoft Excel for analysis and building dashboards.
 ## __Key Features__
 
 •	Scorecards for the key metrics are included: average sales per transaction, total sales, total transactions, best-selling product, and total items sold.
+
 •	Charts for performing well at every location, sales trend over time, peak sales hours, product category popularity, and sales to top categories.
+
 •	Interactive Filters by Month, Product Type, Location at which this product is sold, and Categorization of the product.
 
 ## __Recommendations__
 
 •	Promote the best-selling product across stores: Coffee
+
 •	More staff needs to be added for peak hours from 7 AM to 9 AM since the sales are going to be high.
+
 •	Introduce the assortment of similar products to bestsellers that are Coffee and Tea.
+
 •	Research on enhancing low categories which are Branded, Loose Tea and Flavours.
 
 ## __Next Steps__
 
 •	Further analysis can include customer feedback and loyalty data to understand customer preferences better.
+
 • Automate data updates and enhance the dashboard to support more dynamic, real-time insights.
 
