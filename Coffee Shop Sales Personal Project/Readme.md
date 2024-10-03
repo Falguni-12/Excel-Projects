@@ -14,11 +14,7 @@ This is an analysis of sales data from a chain of coffee shops that will have ke
 
 ## __Objective__
 
-This project seeks to have highly visualized metrics on sales including total revenue, transactions, best-selling items, and busier hours. In turn, it avails the coffee shop managers a means of understanding their performance on different products and stores to make informed choices.
-1. To get overall sales, transaction numbers, and the top-selling product
-2. To know the peak hours for sales and what are the best-selling products
-3. Comparison of stores based on revenue
-4. Identify which product lines are liked by customers the most
+This project aims to provide clear visual metrics on key sales aspects, such as total revenue, number of transactions, top-selling products, and peak sales hours. It helps coffee shop managers understand product and store performance, enabling them to make better decisions. The goal is to track overall sales, identify the most popular products, compare store revenue, and discover customer preferences for different product lines
 
 ## __Analytical Goal__
 
