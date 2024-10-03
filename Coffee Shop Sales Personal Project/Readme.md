@@ -56,7 +56,7 @@ Tools: Microsoft Excel for analysis and building dashboards.
 4. Top Store: Hell's Kitchen had the maximum sales at ₹2,36,511.
 5. Category Performance: Maximum sales were done on coffee followed by Tea and Bakery.
 
-##__Dashboard__
+## __Dashboard__
 
 (https://raw.githubusercontent.com/Falguni-12/Excel-Projects/609f2f91b77b02cb45311d72c0934dd32075d685/Coffee%20Shop%20Sales%20Personal%20Project/Screenshot%202024-10-02%20162357.png?token=BISOHZP5UXXJAM5ZCYP5GHDG7YMJM)
 
