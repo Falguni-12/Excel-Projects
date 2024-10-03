@@ -63,8 +63,11 @@ Tools: Microsoft Excel for analysis and building dashboards.
 ## __Technical Process__
 
 •	Used Excel to clean, structure, and analyse the sales data.
+
 •	Built pivot tables to extract insights from different angles.
+
 •	Created charts such as bar charts, line charts, and pie charts to visualize key metrics.
+
 •	Added slicers to allow interactive filtering by product category, product type, store location, and time.
 
 ## __Key Features__
