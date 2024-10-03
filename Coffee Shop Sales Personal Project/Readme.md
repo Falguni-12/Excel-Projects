@@ -58,7 +58,7 @@ Tools: Microsoft Excel for analysis and building dashboards.
 
 ##__Dashboard__
 
-https://raw.githubusercontent.com/Falguni-12/Excel-Projects/main/Coffee%20Shop%20Sales%20Personal%20Project/Screenshot%202024-10-02%20162357.png
+(https://raw.githubusercontent.com/Falguni-12/Excel-Projects/main/Coffee%20Shop%20Sales%20Personal%20Project/Screenshot%202024-10-02%20162357.png)
 
 ## __Technical Process__
 
