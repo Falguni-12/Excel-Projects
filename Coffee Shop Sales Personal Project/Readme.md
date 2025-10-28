@@ -1,4 +1,4 @@
-# __Coffee Shop Sales Dashboard Personal Project__
+# __Coffee Shop Sales__
 
 ## __Introduction__ 
 
